@@ -7,6 +7,8 @@ for Columbus, Ohio's Lead Exposure Assistance Program (LEAP).
 Built for the 2026 SIAM-MTI Quantathon by Jack Huynh, Maddox Roy, and
 Pranshu Shrivastava.
 
+Our team's presentation is available at: https://youtu.be/NYCtWFBno4U
+
 ---
 
 ## The Question
