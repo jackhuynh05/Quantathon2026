@@ -19,15 +19,17 @@ How much must Columbus set aside in 2026 to keep LEAP solvent through 2037?
 
 ## Files
 ```
-config.py          # Shared constants and parameters
 phase1.py          # Deterministic baseline
 phase2.py          # Monte Carlo simulation (10,000 runs)
 phase3.py          # Property-level micro-simulation (1,000 runs)
 phase4.py          # Competing risks + interest rate model
 phase5.py          # Weighted meta-distribution and final CI
-clean_hmda.py      # HMDA data cleaning script
 ```
 
+## Folder
+```
+data              # Contains the data given to participants, as well as pulled data from Census and CFPB              
+```
 **Data:** Program Excel file, cross-table CSV, Census B25026, HMDA
 (CFPB 2024), and SIAM-MTI simulated property dataset.
 
