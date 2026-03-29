@@ -1,0 +1,31 @@
+Utility Material,Customer Material,Count,Whole Line Designation
+Galvanized,Galvanized,"1,020",Galvanized
+Galvanized,Non-Lead - Copper,"1,248",Galvanized
+Galvanized,Non-Lead - Other,1,Galvanized
+Galvanized,Non-Lead - Plastic,702,Galvanized
+Galvanized,Unknown - Material Unknown,"2,425",Galvanized
+Non-Lead - Copper,Galvanized,"7,253",Galvanized
+Non-Lead - Other,Galvanized,40,Galvanized
+Non-Lead - Plastic,Galvanized,112,Galvanized
+Unknown - Material Unknown,Galvanized,"1,843",Galvanized
+Lead,Galvanized,"4,086",Lead
+Lead,Non-Lead - Copper,"5,107",Lead
+Lead,Non-Lead - Other,2,Lead
+Lead,Non-Lead - Plastic,"3,134",Lead
+Lead,Unknown - Material Unknown,"11,672",Lead
+Non-Lead - Copper,Non-Lead - Copper,"32,619",Non-Lead
+Non-Lead - Copper,Non-Lead - Other,"16,330",Non-Lead
+Non-Lead - Copper,Non-Lead - Plastic,"19,765",Non-Lead
+Non-Lead - Other,Non-Lead - Copper,"5,597",Non-Lead
+Non-Lead - Other,Non-Lead - Other,"32,820",Non-Lead
+Non-Lead - Other,Non-Lead - Plastic,"8,401",Non-Lead
+Non-Lead - Plastic,Non-Lead - Copper,"2,132",Non-Lead
+Non-Lead - Plastic,Non-Lead - Other,"55,183",Non-Lead
+Non-Lead - Plastic,Non-Lead - Plastic,"21,882",Non-Lead
+Non-Lead - Copper,Unknown - Material Unknown,"27,941",Unknown
+Non-Lead - Other,Unknown - Material Unknown,119,Unknown
+Non-Lead - Plastic,Unknown - Material Unknown,"1,783",Unknown
+Unknown - Material Unknown,Non-Lead - Copper,"7,230",Unknown
+Unknown - Material Unknown,Non-Lead - Other,35,Unknown
+Unknown - Material Unknown,Non-Lead - Plastic,"1,874",Unknown
+Unknown - Material Unknown,Unknown - Material Unknown,"16,033",Unknown
